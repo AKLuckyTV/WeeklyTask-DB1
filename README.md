@@ -1,0 +1,1 @@
+# Weekly Task - Simple Spring Boot Application with a database
